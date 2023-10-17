@@ -1,0 +1,40 @@
+.bottom-container {
+  background-color: #ffffff;
+  min-height: 100vh;
+  margin: 18px;
+}
+.list-container {
+  box-shadow: 10px 10px 45px 10px #f8fafc;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+}
+.top-container {
+  background-color: #3367d6;
+  height: 10vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.top-container-logo {
+  height: 66px;
+  width: 126px;
+  padding: 15px;
+}
+.top-container-search {
+  height: 25px;
+  width: 25px;
+  background-color: #2850a7;
+}
+.top-container-input {
+  background-color: #2850a7;
+  width: 256px;
+  outline: none;
+  height: 25px;
+  color: #ffffff;
+}
+.top-container-input-elements {
+  display: flex;
+  justify-content: flex-start;
+  align-items: Center;
+}

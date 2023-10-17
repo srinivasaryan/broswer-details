@@ -1,0 +1,33 @@
+.list-items {
+  list-style-type: none;
+  display: flex;
+  margin: 18px;
+  padding: 15px;
+  justify-content: space-between;
+  align-items: center;
+}
+.list-elements {
+  display: flex;
+}
+.paragraph-time {
+  padding-right: 22px;
+}
+.image-logo {
+  padding-right: 22px;
+}
+.paragraph-title {
+  padding-right: 22px;
+}
+.paragraph-domain {
+  padding-right: 22px;
+  color: #64748b;
+}
+.delete-icon {
+  height: 20px;
+  width: 20px;
+}
+.button-icon {
+  border: none;
+  outline: none;
+  background-color: #ffffff;
+}
